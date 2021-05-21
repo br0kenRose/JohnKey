@@ -1,5 +1,5 @@
 <!-- Your title -->
-## Hi, I'm Angga, from Indonesia. <img src="https://raw.githubusercontent.com/AnggaR96s/AnggaR96s/master/assets/Hi.gif" width="30px">
+## Hi, I'm JohnKey, from Indonesia. <img src="https://raw.githubusercontent.com/AnggaR96s/AnggaR96s/master/assets/Hi.gif" width="30px">
 
 ---
 <p align="center">
@@ -22,12 +22,12 @@
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/AnggaR96s/AnggaR96s/master/assets/git-header.svg" />
 
-- 🎓 I’m now studying at [Universitas Putra Indonesia "YPTK" Padang](https://upiyptk.ac.id)
+- 🎓 I’m now studying at [Seniman NU](http://senimannu.com)
 - 🌱 I’m currently learning Android Development.
 - 🐍 I love Python programming language.
 - 🤔 I’m looking for help with Search Engine.
-- 📫 How to reach me : [Twitter - Angga](https://twitter.com/NGGJNCK)
-- 🌐 Official Website : [Website - ANGGA.EU](https://angga.eu)
+- 📫 How to reach me : [Twitter - HeeyDip](https://twitter.com/coudleRose)
+- 🌐 How to closeup : [Telegram - Rosalia.xyz](https://t.me/axLRooose)
 - 😴 Only sleep 4 hours a day.
 - ☕ Coffee Addict.
 ---
