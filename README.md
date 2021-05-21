@@ -34,7 +34,7 @@
 <!-- Spotify Stuff -->
 [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=vu79g3i6d2et0gvlnt08v42uw&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile))
 <!-- LastFM Scrobbles -->
-[![LastFM](https://angga-lastfm.vercel.app/api?user=DeathRhythm&count=3&width=480)](https://www.last.fm/user/DeathRhythm)
+[![LastFM](https://angga-lastfm.vercel.app/api?user=coudleRose&count=3&width=480)](https://www.last.fm/user/coudleRose)
 
 ---
 **My Latest Tweet:**
